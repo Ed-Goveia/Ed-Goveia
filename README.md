@@ -1,6 +1,6 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=c0d8e3&size=45&center=true&vCenter=true&width=1000&lines=HELLO,;+my+name+is+Eduardo+Miguel+Goveia;I'm+19+years+old;I+from+Brasil,+Brasília;I+study+Web+development;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
-![Contribution](https://activity-graph.herokuapp.com/graph?username=Ed-Goveia&theme=tokyo-night&hide_border=true&area=false&title_color=7d5bed&custom_title=Contribution+Graph&line=7d5bed&color=c0d8e3)
+![Contribution](https://activity-graph.herokuapp.com/graph?username=Ed-Goveia&theme=tokyo-night&hide_border=true&area=false&title_color=7d5bed&custom_title=Contribution+Graph&line=7d5bed&color=c0d8e3&bg_color=6A500)
   
 <div align="center" style="display: inline_block"><br>
   <img align="center" alt="Ed-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
