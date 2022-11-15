@@ -24,7 +24,7 @@ jobs:
         id: snake-gif
         with:
           github_user_name: Ed-Goveia #Seu usuario
-          gif_out_path: dist/github-contribution-grid-snake.gif
+          gif_out_path: dist/ocean.gif?color_snake=orange&color_dots=#bfd6f6,#8dbdff,#64a1f4,#4b91f1,#3c7dd9
           svg_out_path: dist/github-contribution-grid-snake.svg
 
       - run: git status
