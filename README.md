@@ -3,9 +3,12 @@
 ![Contribution](https://activity-graph.herokuapp.com/graph?username=Ed-Goveia&theme=tokyo-night&hide_border=true&area=false&title_color=8d65c5&custom_title=Contribution+Graph&line=8d65c5&color=c0d8e3&bg_color=6A500)
 
 <div align="center">
-<h2> A Web Developer in making.</h2>
+  <h3>
+    <font color="8d65c5">A Web Developer in making.</font>
+  </h3>
 </div>
-<div align="center" style="display: inline_block"><br>
+
+<div align="center"><br>
   <img align="center" alt="Ed-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Ed-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
   <img align="center" alt="Ed-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
@@ -15,9 +18,9 @@
   <img align="center" alt="Ed-git" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
 </div>
 
-  ##
+ ##
  
-<div align="center" valifn="top"> 
+<div align="center" valign="top"> 
   <a href="https://instagram.com/duh.migue" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
  <a href="" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
   <a href = "mailto:ed.mi.goveia@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
