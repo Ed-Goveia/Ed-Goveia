@@ -18,11 +18,14 @@
 </div>
 
 <div align="center">
+  ![Snake animation](https://github.com/Ed-goveia/Ed-goveia/blob/output/github-contribution-grid-snake.svg)
+</div>
 
-  ![Snake animation](https://github.com/Ed-Goveia/Ed-Goveia/blob/output/github-contribution-grid-snake.svg)
+<div align="center">
+
+  ![Snake animation](https://github.com/danielbped/danielbped/blob/output/github-contribution-grid-snake.svg)
   
 </div>
- 
   ##
  
 <div align="center" valifn="top"> 
