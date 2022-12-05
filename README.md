@@ -1,10 +1,5 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=c0d8e3&size=45&center=true&vCenter=true&width=1000&lines=HELLO,;+my+name+is+Eduardo+Miguel+Goveia;I'm+19+years+old;I+from+Brasil,+Brasília;I+study+Web+development;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
-<div align="center">
-  <h3>
-    <font color="8d65c5">A Web Developer in making.</font>
-  </h3>
-</div>
 
 <div align="center"><br>
   <img align="center" alt="Ed-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
@@ -15,6 +10,13 @@
   <img align="center" alt="Ed-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Ed-git" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
 </div>
+
+<div align="center">
+  <h3>
+    <font color="8d65c5">A Web Developer in making.</font>
+  </h3>
+</div>
+
 
  ##
  
