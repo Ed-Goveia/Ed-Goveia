@@ -26,8 +26,3 @@
 </div>
 
 <br>
-<div align="center">
- 
-![Snake animation](https://github.com/Ed-Goveia/Ed-Goveia/blob/output/github-contribution-grid-snake.svg/)
-
-</div>
